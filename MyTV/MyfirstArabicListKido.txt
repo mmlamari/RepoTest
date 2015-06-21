@@ -4,19 +4,64 @@
 http://
 #EXTINF:-1, [COLOR red] USA Channels [/COLOR]  
 http://
-#EXTINF:0,USA Network
-http://142.4.216.60:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
- 
-#EXTINF:0,History Channel
-http://142.4.216.60:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
-#EXTINF:-1,HGTV
-rtmp://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut
- 
-#EXTINF:-1,HGTV
-http://50.7.69.186:1935/edge/_definst_/gj65q2rg18tpmut/chunklist.m3u8?wowzasessionid=1419811602
- 
-#EXTINF:-1,HGTV
-http://50.7.69.186:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
+
+#EXTINF:-1, BBC London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1, ITV1
+http://78.129.175.72/live/itv/itv.m3u8
+#EXTINF:-1, ITV 2
+http://78.129.175.72/live/itv2/itv2.m3u8
+#EXTINF:-1, ITV be
+http://78.129.175.72/live/itvbe/itvbe.m3u8
+#EXTINF:-1, Channel 4
+http://78.129.175.72/live/channel4/channel4.m3u8
+#EXTINF:-1, Sky News International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:-1,ABC News(US) (stream 2)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:1,CNN USA
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1, RT America
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/chunklist.m3u8
+#EXTINF:-1, Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="Al Jazeera English.png",Al Jazeera News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+#EXTINF:-1, CFCN Regina
+http://198.179.31.198/live/2056.high.stream/2056.high.stream/index.m3u8
+#EXTINF:-1,MTV
+rtmp://109.200.202.124/live playpath=hbohd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/hbohd.html
+#EXTINF:O,MTV Live HD 720P
+http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+#EXTINF:-1,USA:Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,USA:Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,USA:VEVO3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:O,Eska Rock 720P
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:O,Eska Party 720P
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:0 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="MUSIC",SingleTV-Music
+http://149.11.34.78:1935/live/singletv.stream/playlist.m3u8
+#EXTINF:-1,Club HD 720P
+http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="Now Thats What I Call Music.png,Now Thats What I Call Music Channel
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8 
+#EXTINF:-1, HSN(Home Shopping Network)
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+#EXTINF:-1, More 4
+http://78.129.175.72/live/more4/more4.m3u8
+#EXTINF:-1, Comedy Central [COLOR green](english audio)[/COLOR]
+http://188.138.9.228:8022
+#EXTINF:-1, Cartoon Network
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+#EXTINF:-1,GOL TV
+http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
+
+#EXTINF:-1,AutoSport TV
+mms://100automoto.tv/100livesport
 #EXTINF:-1, [COLOR green] Bein Sport Channels [/COLOR] 
 http://
 #EXTINF:-1,  Bein 1  
