@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR green] Mohamed Lamari List 06/20/15 @ 21:10 [/COLOR]  
+#EXTINF:-1, [COLOR red] Mohamed Lamari List 06/20/15 @ 21:10 [/COLOR]  
 http://
-#EXTINF:-1, [COLOR Blue] Sport Channels [/COLOR] 
+#EXTINF:-1, [COLOR green] Sport Channels [/COLOR] 
 http://
-#EXTINF:-1, [COLOR green] Bein 1 [/COLOR]  
+#EXTINF:-1,  Bein 1  
 rtmp://89.248.169.48/iguide playpath=zddoq9q2r3v1cpp swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30912&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
 #EXTINF:0 ,Bein Sports 1 -Backup link
@@ -56,7 +56,7 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 #EXTINF:-1,KTV Sport Plus
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
 
-#EXTINF:-1, [COLOR Blue] MBC Channels [/COLOR] 
+#EXTINF:-1, [COLOR green] MBC Channels [/COLOR] 
 http://
 #EXTINF:-1,MBC 1
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_1
