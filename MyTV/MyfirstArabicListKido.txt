@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR Green] Mohamed Lamari List 06/20/15 @ 21:10 [/COLOR]  
+#EXTINF:-1, [COLOR green] Mohamed Lamari List 06/20/15 @ 21:10 [/COLOR]  
 http://
 #EXTINF:-1, [COLOR Blue] Sport Channels [/COLOR] 
 
