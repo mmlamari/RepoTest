@@ -4,7 +4,7 @@
 http://
 #EXTINF:-1, [COLOR Blue] Sport Channels [/COLOR] 
 http://
-#EXTINF:-1, Bein 1
+#EXTINF:-1, [COLOR green] Bein 1 [/COLOR]  
 rtmp://89.248.169.48/iguide playpath=zddoq9q2r3v1cpp swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30912&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
 #EXTINF:0 ,Bein Sports 1 -Backup link
