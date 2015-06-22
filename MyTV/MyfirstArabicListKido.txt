@@ -194,10 +194,12 @@ rtmp://37.59.17.92:1935/live?idu=elelamy_65540608920/art_hekayat_2
 
 
 
-#EXTINF:-1, [COLOR green] MAroc Channels and others [/COLOR]
+#EXTINF:-1, [COLOR green] MAroc Channels [/COLOR]
 http://
 #EXTINF:-1,2M 
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+#EXTINF:-1,29-AL OULA MAROC
+http://chkg.tdf-cdn.com/5958/02.m3u8
 
 #EXTINF:-1, [COLOR green] others [/COLOR]
 http://
